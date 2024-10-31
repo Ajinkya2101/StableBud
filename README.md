@@ -1,5 +1,9 @@
 # StableBud
 StableBud is an interactive desktop application that generates images from text prompts using the Stable Diffusion model. The app also includes speech-to-text functionality, allowing users to input prompts via voice commands.
+
+![Screenshot 2024-10-31 192138](https://github.com/user-attachments/assets/efdb2736-ccc9-4c6d-be2c-791467410a6e)
+
+
 Features:
 
 Speech-to-Image Generation: Convert spoken descriptions into image prompts using Google Speech Recognition.
