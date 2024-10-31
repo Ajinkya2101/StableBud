@@ -46,19 +46,19 @@ Setup and Usage:
 
 3. Run the App
    
-Start the application by running:
-
-bash
+  Start the application by running:
+  
+  bash
 
   python app.py
 
 How to Use
 
-Enter Prompt: Type a prompt or use the microphone button to dictate a description.
-
-Generate Image: Click Generate Image to create an image based on the prompt.
-
-Clear Prompt: Click Clear Prompt to reset the input field.
+  Enter Prompt: Type a prompt or use the microphone button to dictate a description.
+  
+  Generate Image: Click Generate Image to create an image based on the prompt.
+  
+  Clear Prompt: Click Clear Prompt to reset the input field.
 
 Viewing Generated Images
 
@@ -66,15 +66,15 @@ The generated images appear in the display area. Images are also saved locally a
 
 File Structure:
 
-app.py: Main application code.
-
-authtoken.py: File storing Hugging Face API token.
-
-generatedimage.png: Generated image output file.
-
-Libraries Used:
-
-customtkinter for the enhanced tkinter-based UI
+  app.py: Main application code.
+  
+  authtoken.py: File storing Hugging Face API token.
+  
+  generatedimage.png: Generated image output file.
+  
+  Libraries Used:
+  
+  customtkinter for the enhanced tkinter-based UI
 
 torch, diffusers for Stable Diffusion model inference
 
